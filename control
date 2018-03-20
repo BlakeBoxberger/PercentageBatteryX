@@ -1,7 +1,7 @@
 Package: com.neinzedd9.percentagebatteryx
 Name: PercentageBatteryX
 Depends: mobilesubstrate
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Adds the percentage inside of the battery on iPhone X.
 Maintainer: NeinZedd9

@@ -1,5 +1,7 @@
 {
-    Filter = {
-        Classes  = ( "_UIBatteryView" , "_UIStatusBar");
+    Filter =     {
+        Bundles =         (
+            "com.apple.UIKit"
+        );
     };
 }
